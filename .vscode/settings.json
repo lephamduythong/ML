@@ -1,0 +1,7 @@
+{
+    "C_Cpp.copilotHover": "default",
+    "github.copilot.chat.agent.autoFix": true,
+    "editor.inlineSuggest.edits.allowCodeShifting": "always",
+    "editor.inlineSuggest.edits.renderSideBySide": "auto",
+    "editor.inlineSuggest.enabled": false
+}
